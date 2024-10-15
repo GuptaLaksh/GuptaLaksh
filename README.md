@@ -1,3 +1,5 @@
-Hi! I am Laksh Gupta from India. I am in my 4th year of Bachelor of Science degree at Ahmedabad University. I am a Physics major and a candidate for a minor in Mathematics. 
+Hi! I am Laksh Gupta from India. I have recently completed my Bachelor of Science (Honors) from Ahmedabad University, India, with a major in Physics. 
 
-Currently, I am working on my undergraduate thesis with Samyaday Choudhury. 
+I use GitHub to host Python pipelines for photometric data analysis.
+
+Currently, I am a research intern with the Astronomy & Astrophysics group at Ahmedabad University under Professor Samyaday Choudhury. 
